@@ -1,2 +1,3 @@
-# steps
-a steps component with different steps to track progress
+# A react steps component
+
+## A steps component to track personal progress.
